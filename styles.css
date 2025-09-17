@@ -1,0 +1,16 @@
+h1, h2 {
+    font-style:normal;
+    text-align:center;
+}
+
+.button {
+    border-radius: 13%;
+    background-color: #81BDF2;
+    padding: 25px 25px;
+}
+
+.final-button {
+    border-radius: 13%;
+    background-color:#F2A730;
+    padding: 25px 25px;
+}
